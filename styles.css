@@ -525,6 +525,12 @@ footer {
   grid-template-columns: 0.95fr 1.25fr 1fr;
   gap: 24px;
 }
+.foot-grid address {
+  margin-top: 12px;
+  font-size: 14px;
+  font-style: normal;
+  color: var(--muted);
+}
 .foot-grid strong {
   font-weight: 600;
   font-size: 14px;
