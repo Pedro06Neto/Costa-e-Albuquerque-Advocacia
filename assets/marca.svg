@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 -5 80 85">
+  <defs><linearGradient id="bronze" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#85552e"/><stop offset="1" stop-color="#cfa77f"/></linearGradient></defs>
+  <path d="M28 2H3Q2 2 2 3V72H28 M13 72V20 M22 72V23 M2 16L33 25 M33 72V2H61Q62 2 62 3V71Q62 72 61 72H33 M33 51L62 59" fill="none" stroke="url(#bronze)" stroke-width="3" stroke-linejoin="round"/>
+</svg>
